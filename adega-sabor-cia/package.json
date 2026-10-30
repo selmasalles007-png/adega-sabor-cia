@@ -1,0 +1,9 @@
+{
+  "name": "adega-sabor-cia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de pedidos e gestão da Adega Sabor & Cia",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

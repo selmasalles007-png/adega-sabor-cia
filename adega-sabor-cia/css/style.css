@@ -1,0 +1,22 @@
+/* Estilos complementares do sistema Adega Sabor & Cia.
+   O layout original utiliza Tailwind CSS pelo CDN no index.html. */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+button, input, select, textarea {
+    font: inherit;
+}
+
+button {
+    cursor: pointer;
+}
+
+[hidden] {
+    display: none !important;
+}
